@@ -29,8 +29,8 @@ status-website:
   introMessage: Checked every 5 minutes from GitHub Actions. Self-hosted installs aren't monitored here.
   navbar:
     - title: Status
-      href: /
+      href: /the-artifact-status/
     - title: The Artifact
       href: https://the-artifact-pi.vercel.app/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/andidev30/the-artifact-status
